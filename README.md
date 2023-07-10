@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aytoasta.
-- 📫 How to reach me ...
+👋 Hi, I’m @aytoasta.
+📫 How to reach me ...
 
 <!---
 aytoasta/aytoasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
